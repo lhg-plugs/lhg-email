@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"邮件营销专家：用户分层→序列规划→标题正文→送达率 checklist","name":"lhg-email","source":"./"}]}

@@ -1,0 +1,13 @@
+From: 老谷小店 <hello@mail.shopexample.com>
+Subject: 欢迎加入，首单 8 折等你来拿
+预览文本：首单 8 折优惠码 WELCOME10，仅限本周
+
+Hi，欢迎来到老谷小店！
+
+我们是专注户外装备的小团队，这是给你的见面礼：
+首单 8 折，优惠码 WELCOME10，本周有效。
+领取：https://shop.example.com/welcome?utm_source=newsletter&utm_medium=email&utm_campaign=welcome1
+
+不想再收到？退订：https://shop.example.com/unsubscribe?utm_source=newsletter&utm_medium=email&utm_campaign=welcome1
+
+老谷小店，123 Market St, San Francisco, CA 94103
